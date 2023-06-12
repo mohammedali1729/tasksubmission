@@ -1,0 +1,71 @@
+.main{
+    background-image: radial-gradient(#f7f7f7,#be2c33,#4b32bd);
+    text-align: center;
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bdZ1P7u8KykkzECFz7vKAKDgcimXYn3HAFfyATn3-w&usqp=CAU&ec=48665701"); */
+    justify-content: center;
+    background-size: cover;
+    height: 100vh;
+}
+ /* .submain{b 
+    background-color: rgb(240, 236, 7);
+    
+    justify-content: center;
+    height: 250px;
+    width: 25%;
+    margin-left: 450px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 50px;
+    box-sizing: content-box;
+    box-shadow: 10px 20px rgb(0, 0, 0);
+
+}  */
+
+.submain-2{
+    position: absolute;
+    background-image: url("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/spring-sale-advertisement-poster-design-template-4bde2c8ff57aeff4a6d766829484815c_screen.jpg?ts=1637005513");
+    background-size: cover;
+    top: 53%;
+    left: 36%;
+    transform: translate(-50%, -50%);
+    background-color: whitesmoke;
+    height:500px;
+    width: 30%;
+    border-radius: 12px;
+    box-shadow: 5px 9px rgb(0,0,0);    
+} 
+
+  .submain {
+    position: absolute;
+    top: 53%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    background-image: linear-gradient(rgb(233, 142, 225),rgb(228, 163, 163),rgb(233, 138, 233));
+    height: 400px;
+    width: 25%;
+    border-radius: 12px;
+    box-shadow: 5px 9px rgb(0,0,0);
+  }
+  
+.login{
+    color: rgb(13, 8, 58);
+    text-align: center;
+    margin-left: -30px;
+    margin-right: -20px;
+    margin-top: 10px; 
+
+}
+.free{
+    text-align: center;
+    text-size-adjust:60ein ;
+   
+}
+.content{
+    margin-top: 0px;
+    
+}
+.login-type{
+    margin-bottom: 40px;
+    font-size: medium;
+    /* margin-top: -70px; */
+}

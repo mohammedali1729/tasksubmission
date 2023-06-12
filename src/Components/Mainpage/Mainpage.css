@@ -1,0 +1,29 @@
+.main{
+    background-image: url("https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&w=600");
+
+}
+.details{
+    position: absolute;
+    top: 53%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    background-image: linear-gradient(rgb(233, 142, 225),rgb(228, 163, 163),rgb(233, 138, 233));
+    height: 500px;
+    width: 45%;
+    border-radius: 12px;
+    box-shadow: 5px 9px rgb(0,0,0);
+}
+.gender{
+    font-style:bold;
+    font-size: larger;
+}
+.lo{
+    margin-top: 100px;
+    size-adjust: 12;
+}
+.lol{
+   margin-top: 9;
+}
+.dob{
+    box-sizing:inherit;
+}
